@@ -74,3 +74,7 @@ date,category,description,amount
 
 ## 📜 License
 This project is licensed under the MIT License - feel free to use and modify.
+
+
+## Demo Screenshot
+![Expense Tracker Demo](assets/Output.PNG)
